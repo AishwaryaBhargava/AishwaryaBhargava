@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a technologist with a strong passion for **Rob
   <a href="https://www.linkedin.com/in/aishwarya-bhargava05/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO-URL" target="_blank">
+  <a href="https://aishwaryabhargava.github.io/portfolio/#home" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Explore-yellow?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
   </a>
   <a href="mailto:aishwarya.bhargava1198@gmail.com">
